@@ -1,2 +1,5 @@
 # Metroidvania-Demo
-Action-packed Metroidvania demo with advanced platforming, combat, inventory, and smart AI. Can you conquer the world?
+
+#### Available Online
+
+The game is now available for use to download on itch.io! You can try it out here: [Metroidvania Demo](https://chris91s.itch.io/metroidvania-demo).
